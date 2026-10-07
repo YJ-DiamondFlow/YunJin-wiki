@@ -207,5 +207,5 @@ cd frontend && npm run dev   # 访问 http://localhost:5173
 
 ## 说明
 
-- `YJ-wiki` 原静态站点**未被改动**，本项目为独立的新目录。
+- `YJ-wiki` 原静态站点**未被改动**，本项目为独立的新项目。
 - 页面内容保存在 SQLite 中，可在网站后台直接在线编辑（Markdown 语法 + 实时预览）。
